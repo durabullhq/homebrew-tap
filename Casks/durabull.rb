@@ -1,6 +1,6 @@
 cask "durabull" do
-  version "1.46.0"
-  sha256 "dc1d97b95d0e4d2abcb1760bed7b7017ea5ad605922dd582e4117d6b67443ab3"
+  version "1.47.0"
+  sha256 "3fe30c60508484918ecbf2a688281a7def3b44df67a1c1391d232ddc06ccfd29"
 
   url "https://github.com/durabullhq/durabull/releases/download/v#{version}/Durabull-#{version}-arm64.dmg",
       verified: "github.com/durabullhq/durabull/"
